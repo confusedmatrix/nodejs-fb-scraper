@@ -1,0 +1,1 @@
+#* * * * * /usr/local/bin/node /code/build run:comments --page=facebook >> /var/log/cron.log 2>&1
