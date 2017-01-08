@@ -3,7 +3,7 @@ export const appSecret = '';
 
 export const pages = [
   {
-    id: '9250349228',
+    id: '20531316728',
     name: 'facebook'
   }
 ];
